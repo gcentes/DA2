@@ -8,11 +8,23 @@ Estos proyectos son el resultado de semanas de aprendizaje y práctica en análi
 
 ## Proyectos Incluidos
 
-1. **BDA2 Proyecto - Primera Entrega
-  Descripcion del proyecto: https://kodigoacademy.moodlecloud.com/pluginfile.php/13606/mod_resource/content/3/Descripci%C3%B3n%20del%20Proyecto%20-%20Data%20Analyst%20Jr%20DA2%20-%20Primera%20Entrega.pdf
+1. Primera Tarea Evaluada - Introducción a SQL y Joins
+   Puedes encontrar más detalles [aquí](https://academy.kodigo.org/pluginfile.php/724/mod_assign/introattachment/0/Primera%20Tarea%20Evaluada%20-%20Bootcamp%20Data%20Analyst%20Jr%20%28DA2%29.pdf?forcedownload=1)
 
-2. **BDA2 Proyecto - Segunda Entrega
-  Descripcion del proyecto: https://kodigoacademy.moodlecloud.com/pluginfile.php/13713/mod_assign/introattachment/0/Descripci%C3%B3n%20del%20Proyecto%20-%20Data%20Analyst%20Jr%20DA2%20-%20Segunda%20Entrega.pdf?forcedownload=1
+2. Tarea 2 - Agrupando Datos con SQL
+   Puedes encontrar más detalles [aquí](https://academy.kodigo.org/pluginfile.php/727/mod_assign/introattachment/0/Tarea%202%20-%20Agrupando%20Datos%20con%20SQL.pdf?forcedownload=1)
+
+3. Actividad Evaluada 1 - Carga de Datos con Power Query
+   Puedes encontrar más detalles [aquí](https://academy.kodigo.org/pluginfile.php/728/mod_assign/introattachment/0/Actividad%20Evaluada%201%20-%20Carga%20de%20Datos%20con%20Power%20Query.pdf?forcedownload=1)
+
+4. Actividad Evaluada 2 – Creación de Modelo de Datos y de Reportes Analíticos
+Puedes encontrar más detalles [aquí](https://academy.kodigo.org/pluginfile.php/738/mod_assign/introattachment/0/Actividad%20Evaluada%202%20%E2%80%93%20Creaci%C3%B3n%20de%20Modelo%20de%20Datos%20y%20de%20Reportes%20Anal%C3%ADticos.pdf?forcedownload=1)
+
+5. BDA2 Proyecto - Primera Entrega
+  Puedes encontrar más detalles [aquí](https://kodigoacademy.moodlecloud.com/pluginfile.php/13606/mod_resource/content/3/Descripci%C3%B3n%20del%20Proyecto%20-%20Data%20Analyst%20Jr%20DA2%20-%20Primera%20Entrega.pdf)
+
+6. BDA2 Proyecto - Segunda Entrega
+  Puedes encontrar más detalles [aquí](https://kodigoacademy.moodlecloud.com/pluginfile.php/13713/mod_assign/introattachment/0/Descripci%C3%B3n%20del%20Proyecto%20-%20Data%20Analyst%20Jr%20DA2%20-%20Segunda%20Entrega.pdf?forcedownload=1)
 
 
 ## Cómo Explorar los Proyectos
