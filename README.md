@@ -26,6 +26,11 @@ Puedes encontrar más detalles [aquí](https://academy.kodigo.org/pluginfile.php
 6. BDA2 Proyecto - Segunda Entrega
   Puedes encontrar más detalles [aquí](https://kodigoacademy.moodlecloud.com/pluginfile.php/13713/mod_assign/introattachment/0/Descripci%C3%B3n%20del%20Proyecto%20-%20Data%20Analyst%20Jr%20DA2%20-%20Segunda%20Entrega.pdf?forcedownload=1)
 
+7. Tarea Módulo 5 - Ejercicio Google Colaboratory
+Puedes encontrar más detalles [aquí](https://colab.research.google.com/drive/1EMPGS7m5bL_4nkpXiu8mFHgdVkCESMNc)
+
+
+
 
 ## Cómo Explorar los Proyectos
 
